@@ -9,6 +9,7 @@ import ethLogo from './assets/ethlogo.png';
 import { networks } from './utils/networks';
 
 // Constants
+
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // Add the domain you will be minting
